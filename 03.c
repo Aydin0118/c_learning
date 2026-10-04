@@ -3,7 +3,7 @@
 
 int main(){
     system("chcp 65001");
-    printf("你好那你");
+    printf("hello world");
 
     return 0;
 }
