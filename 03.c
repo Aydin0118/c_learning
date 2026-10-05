@@ -12,6 +12,7 @@ int main(){
     printf("%x\n",*p+1);
 
     printf("%x\n",a[0]);
+    printf("hello world");
 
     return 0;
 }
