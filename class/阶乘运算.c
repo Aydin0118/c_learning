@@ -27,7 +27,7 @@ int main(){
         sum=sum+a[i];
         
     }
-    printf("result is %ld", sum);
+    printf("total is %ld", sum);
 
     return 0;
 }
